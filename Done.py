@@ -315,7 +315,7 @@ def Somi():
         login()
         print '[!] Fill In Correctly'
         action()
-
+"""
     xxx = str(len(id))
     jalan ('➡\033[1;96mTOTAL IDS: '+xxx)
     jalan ("➡\033[1;93mTO STOP THIS PROCESS PRESS Ctrl THEN Z")
