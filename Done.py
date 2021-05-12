@@ -245,7 +245,7 @@ def pilih_crack():
                             SYeDs.close()
                             SYeDb.append(c+user+pass2)
                                                                                                                                                                                                               
-  """   """                                                                                                                                                                                                    
+                                                                                                                                                                                                         
         except:
             pass
         
@@ -262,9 +262,9 @@ def pilih_crack():
 
 
 
-"""
 
-  """  
+
+    
     raw_input("\n\033[1;92m[\033[1;92mBack\033[1;95m]")
     crack() 
 def Somi():
@@ -286,7 +286,7 @@ def Somi():
         login()
         print '[!] Fill In Correctly'
         action()
-""""""
+
     xxx = str(len(id))
     jalan ('➡\033[1;96mTOTAL IDS: '+xxx)
     jalan ("➡\033[1;93mTO STOP THIS PROCESS PRESS Ctrl THEN Z")
@@ -353,7 +353,7 @@ def Somi():
 
 
 
-"""
+
 
     
     raw_input("\n\033[1;92m[\033[1;92mBack\033[1;95m]")
