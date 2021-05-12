@@ -59,7 +59,7 @@ def cetak(b):
     x = x.replace('!0','\033[0m')
     sys.stdout.write(x+'\n')
 
-""""""
+"""""""""
 def jalan(z):
 	for e in z + '\n':
 		sys.stdout.write(e)
