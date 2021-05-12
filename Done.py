@@ -257,7 +257,7 @@ def pilih_crack():
     print('Cloned Accounts Has Been Saved : save/cloned.txt')
     jalan("Note : Your Offline account Will Open after 10 to 20 days")
     print ''
-    print """
+    print 
     
 
 
@@ -346,7 +346,7 @@ def Somi():
     print('Cloned Accounts Has Been Saved : save/cloned.txt')
     jalan("Note : Your Offline account Will Open after 10 to 20 days")
     print ''
-    print """
+    print 
  
 
 
