@@ -144,8 +144,8 @@ logo1 =
 \033[1; 92m➾ NOTE : USE 4G FAST INTERNET
 \033[1;95m➾ NOTE : NO NEED PROXY/VPN 
 \033[1;97m∙∙·▫▫ᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒ PUHTOON BRAND ᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒ▫▫·∙∙          
-"""                                                    
-logo2 = """
+                                                    
+logo2 = 
 \033[1;97m∙∙·▫▫ᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒ PUHTOON BRAND ᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒ▫▫·∙∙
 \033[1;93m➾ Owner : SYED RAHIM
 \033[1;92m➾ COMMAND TYPE : WITHOUT LOGIN
