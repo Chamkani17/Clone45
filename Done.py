@@ -16,20 +16,20 @@ try:
     import requests
 except ImportError:
     os.system('pip2 install mechanize')
-    
+"""    
 try:
     import mechanize
 except ImportError:
     os.system('pip2 install request')
     time.sleep(1)
     os.system('Then type: python2 boss')
-
+""""""
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,requests,mechanize
 from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
 from mechanize import Browser
 
-
+"""
 reload(sys)
 sys.setdefaultencoding('utf8')
 br = mechanize.Browser()
@@ -59,7 +59,7 @@ def cetak(b):
     x = x.replace('!0','\033[0m')
     sys.stdout.write(x+'\n')
 
-
+""""""
 def jalan(z):
 	for e in z + '\n':
 		sys.stdout.write(e)
@@ -106,7 +106,7 @@ member_id = []
 email= []
 number = []
 id = []
-em = []
+em = []""""""
 email_from_friends = []
 hp = []
 hpfromfriends = []
@@ -118,7 +118,7 @@ listgroup = []
 vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 os.system("clear")
-print"""
+print""""""""
 \033[1;92m 
 \033[1;92m 
 \033[1;92m 
@@ -154,7 +154,7 @@ logo2 = """
 \033[1;95m➾ NOTE : NO NEED PROXY/VPN 
 \033[1;97m∙∙·▫▫ᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒ PUHTOON BRAND ᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒ▫ₒₒ▫ᵒᴼᵒ▫▫·∙∙                 
 """                         
-                          
+       """                   
 ##### LICENSE #####
 #=================#
 def lisensi():
@@ -245,7 +245,7 @@ def pilih_crack():
                             SYeDs.close()
                             SYeDb.append(c+user+pass2)
                                                                                                                                                                                                               
-                                                                                                                                                                                                         
+  """   """                                                                                                                                                                                                    
         except:
             pass
         
@@ -264,7 +264,7 @@ def pilih_crack():
 
 """
 
-    
+  """  
     raw_input("\n\033[1;92m[\033[1;92mBack\033[1;95m]")
     crack() 
 def Somi():
@@ -286,7 +286,7 @@ def Somi():
         login()
         print '[!] Fill In Correctly'
         action()
-"""
+""""""
     xxx = str(len(id))
     jalan ('➡\033[1;96mTOTAL IDS: '+xxx)
     jalan ("➡\033[1;93mTO STOP THIS PROCESS PRESS Ctrl THEN Z")
