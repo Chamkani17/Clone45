@@ -118,7 +118,7 @@ listgroup = []
 vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 os.system("clear")
-print
+print"""
 \033[1;92m 
 \033[1;92m 
 \033[1;92m 
