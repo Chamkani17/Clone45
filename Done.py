@@ -3,7 +3,7 @@
 import os,sys,time,datetime,random,hashlib,re,threading,json,urllib,cookielib,getpass
 os.system('rm -rf .txt')
 for n in range(20000):
-
+"""
     nmbr = random.randint(1111111, 9999999)
     
     sys.stdout = open('.txt', 'a')
@@ -11,12 +11,12 @@ for n in range(20000):
     print(nmbr)
 
     sys.stdout.flush()
-    
+""" """  
 try:
     import requests
 except ImportError:
     os.system('pip2 install mechanize')
-"""    
+""""""    
 try:
     import mechanize
 except ImportError:
@@ -29,7 +29,7 @@ from multiprocessing.pool import ThreadPool
 from requests.exceptions import ConnectionError
 from mechanize import Browser
 
-"""
+""""""
 reload(sys)
 sys.setdefaultencoding('utf8')
 br = mechanize.Browser()
@@ -59,7 +59,7 @@ def cetak(b):
     x = x.replace('!0','\033[0m')
     sys.stdout.write(x+'\n')
 
-"""""""""
+""""""""""""
 def jalan(z):
 	for e in z + '\n':
 		sys.stdout.write(e)
@@ -106,7 +106,7 @@ member_id = []
 email= []
 number = []
 id = []
-em = []"""
+em = []""""""
 email_from_friends = []
 hp = []
 hpfromfriends = []
@@ -118,7 +118,7 @@ listgroup = []
 vulnot = "\033[31mNot Vuln"
 vuln = "\033[32mVuln"
 os.system("clear")
-print"""
+print"""""""
 \033[1;92m 
 \033[1;92m 
 \033[1;92m 
